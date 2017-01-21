@@ -3,10 +3,11 @@ package main
 import (
 	"flag"
 	"fmt"
-	"golang.org/x/crypto/ssh"
 	"os"
 	"strings"
 	"time"
+
+	"golang.org/x/crypto/ssh"
 )
 
 var (
