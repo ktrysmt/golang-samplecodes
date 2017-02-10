@@ -23,6 +23,6 @@ func main() {
 		"yoshimatsu",
 		31,
 	}
-	res := p.stringify()
-	fmt.Sprintln(res)
+	r := p.stringify()
+	fmt.Println(r)
 }
